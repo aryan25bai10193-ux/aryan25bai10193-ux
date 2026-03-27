@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aryan Rusia 👋
 
-<!--
-**aryan25bai10193-ux/aryan25bai10193-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence | 1st Year  
+🏫 VIT Bhopal University  
 
-Here are some ideas to get you started:
+## About Me
+I am a first-year student learning programming and exploring Artificial Intelligence. I am interested in building projects and improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Learning
+- C Programming
+- C++ programming 
+- Python (Basics)  
+- Git & GitHub  
+
+## Goals
+I aim to develop strong technical skills and work on real-world projects in AI and software development.
